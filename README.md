@@ -36,18 +36,6 @@ NYC_Taxi_Tip_Analysis/
 │   ├── raw/
 │   └── processed/
 ├── notebooks/
-│   ├── 01_data_preprocessing.ipynb
-│   ├── 02_univariate_analysis.ipynb
-│   ├── 03_bivariate_analysis.ipynb
-│   └── 04_visualization.ipynb
-├── scripts/
-│   ├── data_preprocessing.py
-│   ├── univariate_analysis.py
-│   ├── bivariate_analysis.py
-│   └── visualization.py
-├── results/
-│   ├── plots/
-│   └── summary_statistics/
 ├── README.md
 ├── requirements.txt
 └── LICENSE
